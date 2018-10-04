@@ -11,8 +11,7 @@ Installation
 Edit config.mk to match your local setup (tabbed is installed into
 the /usr/local namespace by default). I have already set it to Ubuntu's default locations.
 
-Afterwards enter the following command to build and install tabbed
-(if necessary as root):
+Afterwards enter the following command to build and install tabbed (assuming you're using Ubuntu/Debian):
 
     sudo checkinstall make clean install
 
